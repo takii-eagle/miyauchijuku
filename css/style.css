@@ -104,7 +104,7 @@ img {
     margin-right: 18px;
 }
 .social-icon {
-    height: 57px;
+    width: 57px;
     transition: opacity 0.3s ease;
     vertical-align: middle;
 }
